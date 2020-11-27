@@ -45,20 +45,20 @@ We will use the same method as proposed by Penney’, i.e. a model-based study o
 
 ## Organisation within the team
 
-Writing creative extension proposal : Léo, Juliette
-Start data collection : Delphine, Juliette
+- Writing creative extension proposal : Léo, Juliette
+- Start data collection : Delphine, Juliette
 
-Finalise data collection : Delphine, Juliette
-Data cleaning : Delphine, Juliette
-Researching eventual outliers in data : Léo
-Demonstrating pertinence of using German data : Léo
+- Finalise data collection : Delphine, Juliette
+- Data cleaning : Delphine, Juliette
+- Researching eventual outliers in data : Léo
+- Demonstrating pertinence of using German data : Léo
 
-Model-based analysis : Delphine, Léo, Juliette
-Model-based analysis of control data : Delphine, Léo, Juliette
-Start writing conclusions : Delphine, Léo, Juliette
+- Model-based analysis : Delphine, Léo, Juliette
+- Model-based analysis of control data : Delphine, Léo, Juliette
+- Start writing conclusions : Delphine, Léo, Juliette
 
-Finalising project : Delphine, Léo, Juliette
-Shooting video : Delphine, Léo, Juliette
+- Finalising project : Delphine, Léo, Juliette
+- Shooting video : Delphine, Léo, Juliette
 
 ## Questions for TA
 
