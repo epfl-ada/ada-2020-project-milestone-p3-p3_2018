@@ -17,7 +17,7 @@ We will concentrate our efforts on determining whether the introduction of GDPR 
 
 In order to demonstrate a significant majority of de.wikipedia.org pageviews come from GDPR-affected countries, we can easily use data from https://stats.wikimedia.org/#/de.wikipedia.org/
 
-Unfortunately, at the time we write these line, Penney’s source, the website https://stats.grok.se/, is completely unavailable. As such, finding the same data as the initial author for de.wikipedia.org will be more of an issue. We found another source at https://pageviews.toolforge.org/, but it will not allow us to retrieve data before July 2015. As such, it will not possible to study the timeframe studied by Penney for the German version of Wikipedia.
+Unfortunately, at the time we write these line, Penney’s source, the website https://stats.grok.se/, is completely unavailable. As such, finding the same data as the initial author for de.wikipedia.org is more of an issue. We plan on using Wikipedia REST API (https://wikimedia.org/api/rest_v1/#/Pageviews%20data), which provides access to Wikimedia content and data, including pageviews. As a backup plan, we also found another source at https://pageviews.toolforge.org/. Both these sources don't allow us to retrieve data before July 2015, but it should be sufficient since the GDPR law was introduced in 2018.
 
 ## Methods
 
