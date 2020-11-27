@@ -42,3 +42,25 @@ We will use the same method as proposed by Penney’, i.e. a model-based study o
 ### Week 14 - December 14 - 18
 - Finalising project
 - Shooting video
+
+## Organisation within the team
+
+Writing creative extension proposal : Léo, Juliette
+Start data collection : Delphine, Juliette
+
+Finalise data collection : Delphine, Juliette
+Data cleaning : Delphine, Juliette
+Researching eventual outliers in data : Léo
+Demonstrating pertinence of using German data : Léo
+
+Model-based analysis : Delphine, Léo, Juliette
+Model-based analysis of control data : Delphine, Léo, Juliette
+Start writing conclusions : Delphine, Léo, Juliette
+
+Finalising project : Delphine, Léo, Juliette
+Shooting video : Delphine, Léo, Juliette
+
+## Questions for TA
+
+- We are having a little trouble understanding the change that was made to the Wikipedia data in 2015, they went from pagecounts to pageviews and we don’t understand if they are comparable or not. Is it possible to aggregate these two? 
+- They say mobile views are not included in the data before 2015, but does this mean that the number of views on mobile were not counted at all or are they just not distinguished from the other views ?
